@@ -1,0 +1,1 @@
+g++ ./main.cpp ./bench.cpp ./client.cpp ./request.cpp ./Socket.cpp  -w -Wall -O2 -o webbench -lpthread -lssl
